@@ -1,4 +1,4 @@
-# 537make
+# Simple-Make
 
 A build tool to read, validate and execute make files.
 Uses fork and execvp for creation of new processes and command execution.
